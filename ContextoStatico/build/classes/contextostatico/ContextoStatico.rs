@@ -1,0 +1,2 @@
+contextostatico.Persona
+contextostatico.ContextoStatico
